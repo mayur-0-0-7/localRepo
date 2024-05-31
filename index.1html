@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+            h1{ 
+                color: red;
+            }
+            h1 span{
+                background-color:red;
+            }
+            h2{
+                color:red;
+            }
+            h2 span{
+                color:red;
+            }
+        </style>
+        <style> 
+            html{
+                scroll-behavior: smooth;
+            }
+        </style>
+        
+    </head>
+    <body>
+    
+    <h1>Madara Uchiha </h1>
+    
+    <a href="#1"> know more about Madara</a>
+     <figure>
+        <img src="Madara.jpeg" alt="photo graph of Madara Uchiha">
+        <figcaption>Madara Uchiha </figcaption>
+     </figure> 
+     <aside  left> <figure>
+        <img src="Jubi Madara.jpg" width="200px" alt="Madara after becoming Jinchuriki">
+     <figcaption>Jubi Madara</figcaption>
+     </figure> </aside>
+    
+    <h2>Biography of Madara Uchiha</h2>
+    <h4>Madara is a member of the Uchiha Clan, one of the strongest clans of the village of Konoha. During his childhood, he met a child named Hashirama and become his friend. The two compete with each other to become strong. Together they envisioned a village where ninjas will not kill each other.</h4>
+    <h2>Achievements</h2>
+    <ul>
+        <li><strong>Leader</strong> Leader of Uchiha</li>
+        <li>First human who awoke Rinnegan</li>
+        <li> Capturedred all Tailed beasts</li>
+        <li> First human who awoke Mangekyu sharingan</li>
+        <li> Ten tails Jinchuriki</li>
+    <br>
+        <blockquote><h3>WAKE UP TO REALITY!  Nothing ever goes as planned in this accursed world. The longer you live, the more you realize that the only things that truly exist in this reality are merely pain. suffering and futility.</h3></blockquote>  
+                   <footer>-Madara Uchiha,<cite>World of Peace, World on only VICTORS</cite></footer> 
+    <h2>RESOURCES</h2>
+        <br>
+    <h4 id="1">know more about Madara Uchiha:</h4>
+    <ul> 
+    <a href="https://naruto.fandom.com/wiki/Narutopedia">Narutopedia</a> <br>
+    <a href="https://animepedia.xyz/">Animepedia</a>
+    </ul>   
+    <h1>THanks for visiting</h1> 
+    <h2>what is up<h2>
+    </body
+    </html>
+</body>
+</html>
